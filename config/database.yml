@@ -15,7 +15,7 @@
 development:
   adapter: postgresql
   encoding: unicode
-  database: postgres_development
+  database: deqr08f5u544n
   pool: 5
   username: xegajjwxifkzxk
   password: SDuP4n3NEaQyZrk9tBdkD7ywb6
