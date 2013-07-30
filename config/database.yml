@@ -17,8 +17,8 @@ development:
   encoding: unicode
   database: postgres_development
   pool: 5
-  username: jack
-  password: jill
+  username: kjaufolojuwzuu
+  password: 7mpt-ELQfoVIqAGoXl1AKaVlDd
   host: localhost
   port: 5432
 
